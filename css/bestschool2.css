@@ -1,0 +1,186 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+nav{
+    width: 100%;
+    height: 55px;
+    background: #ff8800;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    justify-content: flex-start;
+    font-family: helvetica neue,Helvetica,Arial,sans-serif;
+}
+.logo a{
+    background: #e67a00;
+    color: white;
+    padding: 18px;
+    margin-left: 105px;
+    font-size: 18px;
+    text-decoration: none;
+
+}
+.home{
+    margin-left: 35px;
+}
+.home a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+}
+
+.banner{
+    background:url(../image/school_page2_img.jpg);
+    width: 100%;
+    height: 250px;
+    background-position: center;
+    background-size: cover;
+}
+.banner h1{
+    padding-top: 80px;
+    font-size: 43px;
+    color: white;
+    font-family: helvetica neue,Helvetica,Arial,sans-serif;
+    font-weight: 500;
+}
+.banner h3{
+    padding: 12px;
+    font-size: 18px;
+    color: white;
+    margin-top: 10px;
+    font-family: helvetica neue,Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    line-height: 1.1;
+}
+.banner input{
+    width: 600px;
+    height: 38px;
+    margin: 0 auto;
+    background: rgba(0,0,0,.7) none repeat scroll 0 0;
+    border: medium;
+    font-size: 17px;
+    color: #fff; 
+}
+
+.row{
+    width: 90%;
+    height: 1200px;
+    background: white;
+    display: block;
+    margin: 50px 70px;
+}
+
+header{
+    width: 750px;
+    height: 75px;
+    background: white;
+    margin-left: 70px;
+}
+
+header h1 a{
+    color: #f80;;
+    text-decoration: none;
+    font-size: 40px;
+    font-family: helvetica neue,Helvetica,Arial,sans-serif;
+    display: block;
+    font-weight: 500;
+}
+.pra1{
+    margin-top:25px;
+    margin-left: 10px;
+    font-family: helvetica neue,Helvetica,Arial,sans-serif;
+    font-size: 11px;
+   
+}
+.pra1 h1{
+    font-size: 24px;
+    font-weight: 500;
+    color: #f80;
+}
+.pra1 h1:hover{
+    color: rgb(202, 105, 69);
+}
+
+.pra1 h4{
+    font-size: 11px;
+    margin: 15px 0px;
+    color: #999;;
+}
+.pra1 p{
+font-size: 15px;
+}
+.pra2{
+    margin-top:25px;
+    margin-left: 10px;
+    font-family: helvetica neue,Helvetica,Arial,sans-serif;
+    font-size: 11px;
+   
+}
+.pra2 h1{
+    font-size: 24px;
+    font-weight: 500;
+    color: #f80;
+}
+.pra2 h1:hover{
+    color: rgb(202, 105, 69);
+}
+
+
+.pra2 h4{
+    font-size: 11px;
+    margin: 15px 0px;
+    color: #999;;
+}
+.pra2 p{
+font-size: 15px;
+}
+.pra3{
+    margin-top:25px;
+    margin-left: 10px;
+    font-family: helvetica neue,Helvetica,Arial,sans-serif;
+    font-size: 11px;
+   
+}
+.pra3 h1{
+    font-size: 24px;
+    font-weight: 500;
+    color: #f80;
+}
+.pra3 h1:hover{
+    color: rgb(202, 105, 69);
+}
+
+.pra3 h4{
+    font-size: 11px;
+    margin: 15px 0px;
+    color: #999;;
+}
+.pra3 p{
+font-size: 15px;
+}
+.pra4{
+    margin-top:25px;
+    margin-left: 10px;
+    font-family: helvetica neue,Helvetica,Arial,sans-serif;
+    font-size: 11px;
+   
+}
+.pra4 h1{
+    font-size: 24px;
+    font-weight: 500;
+    color: #f80;
+}
+.pra4 h1:hover{
+    color: rgb(202, 105, 69);
+}
+
+.pra4 h4{
+    font-size: 11px;
+    margin: 15px 0px;
+    color: #999;;
+}
+.pra4 p{
+font-size: 15px;
+}

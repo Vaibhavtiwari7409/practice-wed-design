@@ -1,0 +1,77 @@
+.a {
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+
+.b {
+    text-align: justify;
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+}
+
+.img {
+    width: 80%;
+}
+
+/*  @media query*/
+@media(max-width:768px) {
+    .img {
+        width: 100%;
+    }
+}
+
+.container-fluid {
+    background-image: url(https://www.firstfiddle.in/assets/images/bannerabout.jpg);
+    width: 100%;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    margin-right: auto;
+    margin-left: auto;
+    background-size: cover;
+
+    .container {
+        max-width: 540px;
+    }
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.col-md-2 {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px
+}
+
+.text-center{
+    position: relative;
+    text-align: center;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.btn-top {
+    background-color: #fbac29;
+    border-radius: 0px;
+    box-shadow:
+}
+.container{
+    max-width: 540px;
+}
+.ml-1{
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
